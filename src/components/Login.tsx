@@ -53,7 +53,7 @@ export const Login = () => {
 
     return (
         <div className='w-full h-screen flex items-center justify-center'>
-            <div className='w-[90%] md:w-[40%] p-5 pt-0 bg-gray-900 flex-col flex items-center gap-3 rounded-xl shadow-slate-500 shadow-lg'>
+            <div className='w-[80%] md:w-[50%] lg:w-[30%] p-5 pt-0 bg-gray-900 flex-col flex items-center gap-3 rounded-xl shadow-slate-500 shadow-lg'>
                 <div className='py-4 px-6 bg-gradient-to-r from-purple-500 to-blue-500 rounded-bl-3xl rounded-br-3xl'>
                     <h2 className='text-white font-bold text-2xl md:text-3xl'>Welcome Back</h2>
                 </div>
